@@ -1,0 +1,2 @@
+# practica1GerardoRamirezCanchola
+practica1fundamentos de progrmacion
